@@ -1,0 +1,26 @@
+{
+  "name": "myweb",
+  "version": "1.0.0",
+  "description": "my own web use express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LightYear112/Myweb.git"
+  },
+  "keywords": [
+    "express",
+    "web"
+  ],
+  "author": "LightYear",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LightYear112/Myweb/issues"
+  },
+  "homepage": "https://github.com/LightYear112/Myweb#readme",
+  "devDependencies": {
+    "express": "^4.14.0"
+  }
+}
