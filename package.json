@@ -21,6 +21,9 @@
   },
   "homepage": "https://github.com/LightYear112/Myweb#readme",
   "devDependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "webpack": "^1.13.2",
+    "webpack-dev-middleware": "^1.8.4",
+    "webpack-hot-middleware": "^2.13.0"
   }
 }
